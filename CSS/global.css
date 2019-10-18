@@ -1,0 +1,187 @@
+* {
+    color: #fff;
+}
+
+.bg {
+    background: url('../images/bg3.jpg') no-repeat;
+    width: 100%;
+    height: 100vh;
+    filter: blur(0px);
+}
+
+.form-container {
+    padding: 40px 60px;
+    margin-top: 15vh;
+    background: rgba(0, 0, 0, 0.75);
+    filter: blur(0px);
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.form-container {
+    padding: 40px 60px;
+    margin-top: 10vh;
+    background: rgba(0, 0, 0, 0.75);
+    filter: blur(0px);
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.input-group {
+    margin-top: top 10px;
+    margin-bottom: 20px;
+}
+
+.input-group-addon {
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    font-size: 20px;
+}
+
+.form-group {
+    font-size: 29px;
+}
+
+.text-center {
+    font-size: 20px;
+}
+
+.btn {
+    font-size: 18px;
+}
+
+footer .main-footer {
+    padding: 20px;
+    background: #222831;
+}
+
+footer ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-copyright {
+    background: #222;
+    padding: 5px;
+}
+
+.footer-copyright p {
+    color: #969696;
+    margin: 2px 0 0;
+}
+
+.widget.no-box {
+    padding: 0;
+    background-color: transparent;
+    margin-bottom: 100px;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -ms-box-shadow: none;
+    -o-box-shadow: none;
+}
+
+.thumb-content {
+    font-size: 16px;
+}
+
+.widget li a {
+    color: #fff;
+}
+
+.widget li a:hover {
+    color: #84b3ee;
+}
+
+.widget-title {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+.widget-title1 {
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+
+.widget-title span {
+    background: rgb(214, 222, 226) none repeat scroll 0 0;
+    display: block;
+    height: 1px;
+    margin-top: 25px;
+    position: relative;
+    width: 50%;
+}
+
+.widget-title span::after {
+    background: inherit;
+    content: "";
+    height: inherit;
+    position: absolute;
+    top: -4px;
+    width: 30%;
+}
+
+.widget-title.text-center span,
+.widget-title.text-center span::after {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}
+
+.typo-light h1,
+.typo-light h2,
+.typo-light h3,
+.typo-light h4,
+.typo-light h5,
+.typo-light h6,
+.typo-light p,
+.typo-light div,
+.typo-light span,
+.typo-light small {
+    color: #fff;
+}
+
+ul.social-footer2 li {
+    display: inline-block;
+    padding: 0;
+}
+
+.youtube:hover {
+    background-color: #c4302b;
+}
+
+.facebook:hover {
+    background-color: #3b5998;
+}
+
+.twitter:hover {
+    background-color: #1da1f2;
+}
+
+.instagram:hover {
+    background-color: #CC3366;
+}
+
+.btn {
+    background-color: #ff8d1e;
+    color: #fff;
+}
+
+.btn:hover,
+.btn:focus,
+.btn.active {
+    background: #4b92dc;
+    color: #fff;
+    -webkit-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    -webkit-transition: all 250ms ease-in-out 0s;
+    -moz-transition: all 250ms ease-in-out 0s;
+    -ms-transition: all 250ms ease-in-out 0s;
+    -o-transition: all 250ms ease-in-out 0s;
+    transition: all 250ms ease-in-out 0s;
+}
